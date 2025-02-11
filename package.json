@@ -8,12 +8,16 @@
   "name": "atividade-backend",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon server.js"
   },
-  "keywords": ["Nodejs", "Backend", "JavaScript", "Filme"],
+  "keywords": [
+    "Nodejs",
+    "Backend",
+    "JavaScript",
+    "Filme"
+  ],
   "author": "Luiz Gabriel",
   "license": "MIT",
   "description": "Atividade de backend sobre filmes"
